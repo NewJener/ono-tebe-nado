@@ -25,7 +25,6 @@
   list-style: none;
 }
 
-
 .header__logo {
   display: block;
   width: 148px;
@@ -75,7 +74,7 @@
   display: block;
 }
 
-.text__left{
+.text__left {
   text-align: start;
   margin-left: 47px;
 }
@@ -89,7 +88,7 @@
   margin-right: 20px;
 }
 
-.title__space{
+.title__space {
   letter-spacing: 0.6em;
 }
 
@@ -113,7 +112,7 @@
 
 
 
-.bet-button{
+.bet-button {
   padding: 11px 31px;
   border-color: #ffffff;
   border-width: 1px;
