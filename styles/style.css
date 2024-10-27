@@ -1,8 +1,6 @@
 .header {
-  /*width: 1052px;
-  margin: 92px 24px 85px 24px;*/
   width: 100%;
-  padding: 92px 50px 86px;
+  padding: 86px 50px 86px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
@@ -164,6 +162,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 51px 40px 48px;
 }
 
 .card_type_film {
@@ -184,7 +183,6 @@
   font-size: 22px;
   text-transform: uppercase;
   text-decoration: underline;
-  margin: 51px 40px 0;
 }
 
 .card__text {
@@ -192,7 +190,6 @@
   font-family: 'Raleway',sans-serif;
   font-size: 20px;
   text-decoration: none;
-  margin: 0 40px 48px;
 }
 
 .lots__look-more-link {
