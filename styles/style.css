@@ -146,15 +146,22 @@
   color: #ffffff;
   margin-top: 27px;
   flex-wrap: wrap;
+  gap: 25px;
+}
+
+.card-list-item{
+  flex:0 0 334px;
+  min-height: 563px;
 }
 
 .card-link {
   text-decoration: none;
+  display: block;
+  height: 100%;
 }
 
 .card {
   height: 100%;
-  width: 334px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
